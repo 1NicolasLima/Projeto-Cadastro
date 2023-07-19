@@ -1,3 +1,5 @@
 export default function Inicio(){
-    return "Início"
+    return (
+        "Início"
+    )
 }
